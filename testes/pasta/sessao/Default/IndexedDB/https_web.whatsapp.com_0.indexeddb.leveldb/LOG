@@ -1,0 +1,9 @@
+2023/06/16-11:25:11.713 41d0 Reusing MANIFEST C:\Users\Aliss\PycharmProjects\wppbot\testes\pasta\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/16-11:25:11.713 41d0 Recovering log #92
+2023/06/16-11:25:11.723 41d0 Reusing old log C:\Users\Aliss\PycharmProjects\wppbot\testes\pasta\sessao\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000092.log 
+2023/06/16-11:25:18.504 41d0 Compacting 1@1 + 1@2 files
+2023/06/16-11:25:18.788 41d0 Generated table #97@1: 41947 keys, 1331935 bytes
+2023/06/16-11:25:18.789 41d0 Compacted 1@1 + 1@2 files => 1331935 bytes
+2023/06/16-11:25:18.840 41d0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/16-11:25:18.840 41d0 Delete type=2 #5
+2023/06/16-11:25:18.840 41d0 Delete type=2 #94

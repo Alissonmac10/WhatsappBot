@@ -1,0 +1,30 @@
+2023/06/15-20:38:09.725 64d4 Reusing MANIFEST C:\Users\Aliss\PycharmProjects\wppbot\testes\profile\zap\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/15-20:38:09.725 64d4 Recovering log #15
+2023/06/15-20:38:09.759 64d4 Reusing old log C:\Users\Aliss\PycharmProjects\wppbot\testes\profile\zap\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000015.log 
+2023/06/15-20:38:30.571 4948 Level-0 table #20: started
+2023/06/15-20:38:31.128 4948 Level-0 table #20: 1197431 bytes OK
+2023/06/15-20:38:31.175 4948 Delete type=0 #15
+2023/06/15-20:38:32.137 3218 Compacting 1@1 + 1@2 files
+2023/06/15-20:38:32.303 3218 Generated table #21@1: 30231 keys, 1307953 bytes
+2023/06/15-20:38:32.303 3218 Compacted 1@1 + 1@2 files => 1307953 bytes
+2023/06/15-20:38:32.336 3218 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/15-20:38:46.732 3218 Level-0 table #23: started
+2023/06/15-20:38:46.889 3218 Level-0 table #23: 1222043 bytes OK
+2023/06/15-20:38:46.914 3218 Delete type=2 #17
+2023/06/15-20:38:46.914 3218 Delete type=0 #19
+2023/06/15-20:38:46.914 3218 Delete type=2 #20
+2023/06/15-20:38:47.306 5b8c Compacting 1@1 + 1@2 files
+2023/06/15-20:38:47.499 5b8c Generated table #24@1: 36563 keys, 1686497 bytes
+2023/06/15-20:38:47.499 5b8c Compacted 1@1 + 1@2 files => 1686497 bytes
+2023/06/15-20:38:47.522 5b8c compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/15-20:38:47.522 5b8c Delete type=2 #21
+2023/06/15-20:38:47.522 5b8c Delete type=2 #23
+2023/06/15-20:41:25.922 3218 Level-0 table #26: started
+2023/06/15-20:41:26.059 3218 Level-0 table #26: 1280237 bytes OK
+2023/06/15-20:41:26.080 3218 Delete type=0 #22
+2023/06/15-20:42:23.095 3218 Compacting 1@1 + 1@2 files
+2023/06/15-20:42:23.366 3218 Generated table #27@1: 38801 keys, 1897239 bytes
+2023/06/15-20:42:23.366 3218 Compacted 1@1 + 1@2 files => 1897239 bytes
+2023/06/15-20:42:23.387 3218 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/15-20:42:23.387 3218 Delete type=2 #24
+2023/06/15-20:42:23.387 3218 Delete type=2 #26

@@ -67,7 +67,7 @@ def bot():
         campo_de_texto = driver.find_element(By.XPATH,caixa_msg)
         campo_de_texto.click()
         time.sleep(1)
-        campo_de_texto.send_keys('ME CAGUEI TODINHO!!!!!', Keys.ENTER)
+        campo_de_texto.send_keys('Mensagem', Keys.ENTER)
 
 
         #FECHAR CONTATO
